@@ -33,8 +33,6 @@
                             this.$router.replace({path: '/index'})
                         }
                     })
-                    .catch(failResponse => {
-                    })
             }
         }
     }
