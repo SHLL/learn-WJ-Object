@@ -7,9 +7,9 @@
                 <td>性别</td>
                 <td>联系方式</td>
             </tr>
-            <tr v-for="item in Person" v-bind:key="item">
+            <tr v-for='(item,index) in Person' v-bind:key="index">
                 <td>{{item.id}}</td>
-                <td>{{item.name}}</td>
+                <td>{{item.username}}</td>
                 <td>{{item.sex}}</td>
                 <td>{{item.phone}}</td>
             </tr>
@@ -18,32 +18,21 @@
 </template>
 
 <script>
+    import axios from 'axios'
     export default {
         name: "Person",
         data(){
             return{
                 msg: 'Hello Vue',
-                Person:[
-                    {
-                        id:1,
-                        name: '用户1',
-                        sex: '男',
-                        phone: 'XXX'
-                    },
-                    {
-                        id:2,
-                        name: '用户2',
-                        sex: '女',
-                        phone: 'xxx'
-                    },
-                    {
-                        id:3,
-                        name: '用户3',
-                        sex: '男',
-                        phone: 'xxx'
-                    }
-                ]
+                Person:[]
             }
+        },
+        created() {
+            const _this = this
+            axios.get('http://localhost:8181/persons/findAll')
+            .then(function (resp) {
+                _this.Person = resp.data
+            })
         }
     }
 </script>
