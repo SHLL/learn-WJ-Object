@@ -1,14 +1,13 @@
 <template>
   <div id="app">
     <router-link to="/">Login</router-link> |
-    <router-link to="/index">AppIndex</router-link>
+    <router-link to="/index">AppIndex</router-link> |
+    <router-link to="/about">About</router-link>
     <router-view/>
   </div>
 </template>
 
 <script>
-
-
 export default {
   name: 'app',
   components: {

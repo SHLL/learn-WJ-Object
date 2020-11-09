@@ -5,6 +5,8 @@ import './registerServiceWorker'
 import router from './router'
 import store from './store'
 import './plugins/element.js'
+//先 vue add  axios  或者到vue ui 中加载插件
+//vue-cli3.x 增加axios的方式
 import axios from 'axios'
 axios.defaults.baseURL = 'http://localhost:8181/api'
 Vue.prototype.$ajax = axios

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="" />
+    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +92,8 @@
       <workItem from="1604823298789" duration="7359000" />
       <workItem from="1604831345426" duration="3460000" />
       <workItem from="1604837257109" duration="3387000" />
-      <workItem from="1604906206629" duration="4355000" />
+      <workItem from="1604906206629" duration="4392000" />
+      <workItem from="1604925104500" duration="1389000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604840632515</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updata 201109 -pm">
+      <created>1604912743820</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604912743820</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +134,8 @@
     <MESSAGE value="updata 201108-pm" />
     <MESSAGE value="updata 201108-pm 1" />
     <MESSAGE value="updata 201108-pm 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="updata 201108-pm 2" />
+    <MESSAGE value="updata 201109 -pm" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata 201109 -pm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="729" y="377" key="#ESLint" timestamp="1604832212748">
@@ -132,30 +146,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="635" y="191" key="#Web_Browsers/0.0.1536.834@0.0.1536.834" timestamp="1604836397290" />
-    <state x="0" y="7" key="CommitChangelistDialog2" timestamp="1604840631153">
+    <state x="0" y="7" key="CommitChangelistDialog2" timestamp="1604912741904">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1604840631153" />
+    <state x="0" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1604912741904" />
     <state x="547" y="256" key="FileChooserDialogImpl" timestamp="1604906799728">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="547" y="256" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604906799728" />
-    <state width="1078" height="152" key="GridCell.Tab.0.bottom" timestamp="1604912718995">
+    <state width="1078" height="152" key="GridCell.Tab.0.bottom" timestamp="1604926724364">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
-    <state width="1078" height="152" key="GridCell.Tab.0.center" timestamp="1604912718995">
+    <state width="1078" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604926724364" />
+    <state width="1078" height="152" key="GridCell.Tab.0.center" timestamp="1604926724363">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
-    <state width="1078" height="152" key="GridCell.Tab.0.left" timestamp="1604912718995">
+    <state width="1078" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604926724363" />
+    <state width="1078" height="152" key="GridCell.Tab.0.left" timestamp="1604926724363">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
-    <state width="1078" height="152" key="GridCell.Tab.0.right" timestamp="1604912718995">
+    <state width="1078" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604926724363" />
+    <state width="1078" height="152" key="GridCell.Tab.0.right" timestamp="1604926724363">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
+    <state width="1078" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604926724363" />
     <state x="456" y="124" key="SettingsEditor" timestamp="1604824436365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -164,5 +178,9 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="314" y="131" width="1103" height="633" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1604825276540" />
+    <state x="579" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1604925135089">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="579" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1604925135089" />
   </component>
 </project>
