@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/result/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/plugins/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/AppIndex.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +87,7 @@
       <workItem from="1604823298789" duration="7359000" />
       <workItem from="1604831345426" duration="3460000" />
       <workItem from="1604837257109" duration="3387000" />
-      <workItem from="1604906206629" duration="4105000" />
+      <workItem from="1604906206629" duration="4355000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
@@ -153,22 +140,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="547" y="256" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1604906799728" />
-    <state width="1078" height="152" key="GridCell.Tab.0.bottom" timestamp="1604908935499">
+    <state width="1078" height="152" key="GridCell.Tab.0.bottom" timestamp="1604912718995">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604908935499" />
-    <state width="1078" height="152" key="GridCell.Tab.0.center" timestamp="1604908935499">
+    <state width="1078" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
+    <state width="1078" height="152" key="GridCell.Tab.0.center" timestamp="1604912718995">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604908935499" />
-    <state width="1078" height="152" key="GridCell.Tab.0.left" timestamp="1604908935499">
+    <state width="1078" height="152" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
+    <state width="1078" height="152" key="GridCell.Tab.0.left" timestamp="1604912718995">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604908935499" />
-    <state width="1078" height="152" key="GridCell.Tab.0.right" timestamp="1604908935499">
+    <state width="1078" height="152" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
+    <state width="1078" height="152" key="GridCell.Tab.0.right" timestamp="1604912718995">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1078" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604908935499" />
+    <state width="1078" height="152" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604912718995" />
     <state x="456" y="124" key="SettingsEditor" timestamp="1604824436365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
