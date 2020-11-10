@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/bg-image.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
-    </list>
+    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +110,7 @@
       <workItem from="1604929753210" duration="4701000" />
       <workItem from="1604991408096" duration="1434000" />
       <workItem from="1604997362810" duration="712000" />
-      <workItem from="1605008161290" duration="946000" />
+      <workItem from="1605008161290" duration="1025000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
@@ -134,11 +147,29 @@
       <option name="project" value="LOCAL" />
       <updated>1604930801670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updata 201109 -pm">
+      <created>1605015817167</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605015817167</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -161,30 +192,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="283" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1604997376259" />
-    <state x="0" y="7" key="CommitChangelistDialog2" timestamp="1604930800428">
+    <state x="0" y="7" key="CommitChangelistDialog2" timestamp="1605015814573">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1604930800428" />
+    <state x="0" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605015814573" />
     <state x="547" y="256" key="FileChooserDialogImpl" timestamp="1605008284452">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="547" y="256" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605008284452" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1604998413903">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1605015866447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1604998413903" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1604998413903">
+    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605015866447" />
+    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1605015866447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1604998413903" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1604998413903">
+    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605015866447" />
+    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1605015866447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1604998413903" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1604998413903">
+    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605015866447" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1605015866447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1604998413903" />
+    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605015866447" />
     <state x="456" y="124" key="SettingsEditor" timestamp="1604824436365">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
