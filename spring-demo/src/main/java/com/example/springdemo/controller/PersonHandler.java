@@ -22,5 +22,4 @@ public class PersonHandler {
     public List<Persons> findAll(){
         return personRepository.findAll();
     }
-
 }

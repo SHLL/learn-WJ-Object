@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import AppIndex from "@/views/AppIndex";
+import AppIndex from "@/components/home/AppIndex";
 import Login from "@/views/Login";
-import About from "@/views/About"
+import Home from "@/components/Home"
+import LibraryIndex from "@/components/library/LibraryIndex";
 
 
 Vue.use(VueRouter)
@@ -10,21 +11,33 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
+    name: 'Default',
+    component: Home,
+    redirect: '/index',
+    children:[
+      {
+        path: '/index',
+        name: 'AppIndex',
+        component: AppIndex,
+        meta:{
+          requireAuth: true
+        }
+      },
+      {
+        path: '/library',
+        name: 'library',
+        component: LibraryIndex,
+        meta: {
+          requireAuth: true
+        }
+      }
+    ]
+
+  },
+  {
+    path: '/login',
     name: 'Login',
     component: Login
-  },
-  {
-    path: '/about',
-    name: 'About',
-    component: About
-  },
-  {
-    path: '/index',
-    name: 'AppIndex',
-    component: AppIndex,
-    meta:{
-      requireAuth: true
-    }
   }
 ]
 
