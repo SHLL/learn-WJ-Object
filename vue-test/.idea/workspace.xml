@@ -19,49 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/GsTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LibraryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/dao/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/entity/Gs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/pojo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/repository/GsTestRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bg/bg2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bg/eva1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/bg/topo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/books/s2768378.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/books/s29958602.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/404.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/csdn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/icon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/icon5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/icon6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/icon7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/img/icon/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/NavMenu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/Carousel.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/QuickNav.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/SideMenu.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/Slogan.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/home/UpdateCard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/Books.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/LibraryIndex.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/SideMenu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/AppIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/AppIndex.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" />
-    </list>
+    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -163,7 +121,7 @@
       <workItem from="1605271898480" duration="1887000" />
       <workItem from="1605513243530" duration="2815000" />
       <workItem from="1605526058131" duration="1203000" />
-      <workItem from="1605683077807" duration="14591000" />
+      <workItem from="1605683077807" duration="14922000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
