@@ -9,7 +9,7 @@ import './plugins/element.js'
 //vue-cli3.x 增加axios的方式
 import axios from 'axios'
 axios.defaults.baseURL = 'http://localhost:8181/api'
-Vue.prototype.$ajax = axios
+
 
 Vue.config.productionTip = false
 

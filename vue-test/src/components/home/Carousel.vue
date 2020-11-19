@@ -19,18 +19,19 @@
                 items: [{
                     id: 1,
                     title: 'How2J.cn - Java 全栈学习网站',
-                    img: '../../../static/img/carousel/how2j.png',
+                    //在vue 4.x 中 如果为:src  路径需要拼接的时候 则需要使用require  见https://blog.csdn.net/sunhonghui9527/article/details/107188395?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromBaidu-1.control
+                    img: require('../../../static/img/carousel/how2j.png'),
                     link: 'http://how2j.cn?p=50613'},
                     {
                         id: 2,
                         title: 'Vue.js - 渐进式 JavaScript 框架',
-                        img: '../../../static/img/carousel/vue.png',
+                        img: require('../../../static/img/carousel/vue.png'),
                         link: 'https://cn.vuejs.org/'
                     },
                     {
                         id: 3,
                         title: 'element-ui - 网站快速成型工具',
-                        img: '../../../static/img/carousel/element.png',
+                        img: require('../../../static/img/carousel/element.png'),
                         link: 'http://element-cn.eleme.io/#/zh-CN'
                     }]
             }

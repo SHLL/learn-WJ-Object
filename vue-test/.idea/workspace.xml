@@ -19,21 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="">
+    <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="updata 201118  -night &#10;&#10;前台完成部分  其余功能待续">
+      <change afterPath="$PROJECT_DIR$/src/components/library/EditForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/library/SearchBar.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/carousel/element.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/carousel/how2j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/img/carousel/vue.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LibraryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/BookService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/bg/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/bg/eva1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/bg/topo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/books/s2768378.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/books/s29958602.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/404.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/csdn.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/icon2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/icon5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/icon6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/icon7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/icon/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/Carousel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Carousel.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/library/Books.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/Books.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/library/LibraryIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/LibraryIndex.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/library/SideMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/SideMenu.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Person.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Person.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +101,23 @@
       <recent name="D:\JetBrainsObject\IdeaProjects\WJ-Object\vue-test\src\components\home" />
     </key>
   </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8181/persons/findAll" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="npm.npm serve">
+    <configuration name="generated-requests#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:8080">
       <method v="2" />
     </configuration>
@@ -111,6 +131,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests#2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -137,7 +162,7 @@
       <workItem from="1605513243530" duration="2815000" />
       <workItem from="1605526058131" duration="1203000" />
       <workItem from="1605683077807" duration="14992000" />
-      <workItem from="1605769405352" duration="233000" />
+      <workItem from="1605769405352" duration="11518000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
@@ -239,30 +264,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1605684747072" />
-    <state x="0" y="7" key="CommitChangelistDialog2" timestamp="1605706554628">
+    <state x="0" y="0" key="CommitChangelistDialog2" timestamp="1605769907706">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="0" y="7" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605706554628" />
+    <state x="0" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1605769907706" />
     <state x="547" y="256" key="FileChooserDialogImpl" timestamp="1605687194664">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="547" y="256" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1605687194664" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1605706593034">
+    <state width="1078" height="213" key="GridCell.Tab.0.bottom" timestamp="1605779737912">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605706593034" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1605706593034">
+    <state width="1078" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1605779737912" />
+    <state width="1078" height="213" key="GridCell.Tab.0.center" timestamp="1605779737912">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605706593034" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1605706593034">
+    <state width="1078" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1605779737912" />
+    <state width="1078" height="213" key="GridCell.Tab.0.left" timestamp="1605779737912">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605706593034" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1605706593034">
+    <state width="1078" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1605779737912" />
+    <state width="1078" height="213" key="GridCell.Tab.0.right" timestamp="1605779737912">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605706593034" />
+    <state width="1078" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1605779737912" />
     <state width="1078" height="190" key="GridCell.Tab.1.bottom" timestamp="1605189940271">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

@@ -12,13 +12,13 @@ import java.util.List;
 //跨域解决
 @CrossOrigin(value = "*", maxAge = 3600)
 @RestController
-@RequestMapping("/persons")
+@RequestMapping("/api")
 public class PersonHandler {
 
     @Autowired
     private PersonRepository personRepository;
 
-    @GetMapping("/findAll")
+    @GetMapping("persons/findAll")
     public List<Persons> findAll(){
         return personRepository.findAll();
     }

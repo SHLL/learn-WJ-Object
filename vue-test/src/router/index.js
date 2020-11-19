@@ -4,6 +4,7 @@ import AppIndex from "@/components/home/AppIndex";
 import Login from "@/views/Login";
 import Home from "@/components/Home"
 import LibraryIndex from "@/components/library/LibraryIndex";
+import Person from "@/views/Person";
 
 
 Vue.use(VueRouter)
@@ -38,6 +39,11 @@ const routes = [
     path: '/login',
     name: 'Login',
     component: Login
+  },
+  {
+    path: '/Person',
+    name: 'Person',
+    component: Person
   }
 ]
 

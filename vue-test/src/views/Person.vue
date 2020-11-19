@@ -18,7 +18,6 @@
 </template>
 
 <script>
-    import axios from 'axios'
     export default {
         name: "Person",
         data(){
@@ -29,9 +28,10 @@
         },
         created() {
             const _this = this
-            axios.get('http://localhost:8181/persons/findAll')
+            this.$axios.get('persons/findAll')
             .then(function (resp) {
                 _this.Person = resp.data
+                console.log(resp)
             })
         }
     }
