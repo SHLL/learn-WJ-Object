@@ -15,8 +15,12 @@ import java.util.Objects;
 @ResponseBody
 public class LoginController {
 
+    private UserService userService;
+
     @Autowired
-    UserService userService;
+    public void setUserService(UserService userService) {
+        this.userService = userService;
+    }
 
     @PostMapping(value = "api/login")
   public Result login(@RequestBody User requesUser){

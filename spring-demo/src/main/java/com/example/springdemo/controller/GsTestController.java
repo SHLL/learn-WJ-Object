@@ -15,8 +15,13 @@ import java.util.List;
 @RequestMapping("/gs")
 public class GsTestController {
 
-    @Autowired
+
     private GsTestRepository gsTestRepository;
+
+    @Autowired
+    public void setGsTestRepository(GsTestRepository gsTestRepository) {
+        this.gsTestRepository = gsTestRepository;
+    }
 
     @GetMapping("/findAll")
     public List<Gs> findAll(){

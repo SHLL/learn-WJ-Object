@@ -10,8 +10,13 @@ import java.util.List;
 @CrossOrigin(value = "*",maxAge = 3600)
 @RestController
 public class LibraryController {
+
+    private BookService bookService;
+
     @Autowired
-    BookService bookService;
+    public void setBookService(BookService bookService) {
+        this.bookService = bookService;
+    }
 
     @GetMapping("/api/books")
     public List<Book> list() throws Exception {

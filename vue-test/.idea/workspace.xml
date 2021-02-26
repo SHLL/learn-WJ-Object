@@ -20,24 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d68fa241-0d7e-4eec-8602-d202c1c4dc3c" name="Default Changelist" comment="updata 201118  -night &#10;&#10;前台完成部分  其余功能待续">
-      <change afterPath="$PROJECT_DIR$/src/components/library/EditForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/library/SearchBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel/element.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel/how2j.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/carousel/vue.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LibraryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/LibraryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/controller/PersonHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/java/com/example/springdemo/service/BookService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/home/Carousel.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/Carousel.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/library/Books.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/Books.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/library/LibraryIndex.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/LibraryIndex.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/library/SideMenu.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/library/SideMenu.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Person.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Person.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-demo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-demo/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +120,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -163,6 +147,7 @@
       <workItem from="1605526058131" duration="1203000" />
       <workItem from="1605683077807" duration="14992000" />
       <workItem from="1605769405352" duration="11518000" />
+      <workItem from="1614304455580" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="updata 201108-pm">
       <created>1604831086092</created>
@@ -224,7 +209,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

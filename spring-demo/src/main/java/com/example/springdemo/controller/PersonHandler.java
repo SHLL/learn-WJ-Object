@@ -15,8 +15,13 @@ import java.util.List;
 @RequestMapping("/api")
 public class PersonHandler {
 
-    @Autowired
     private PersonRepository personRepository;
+
+    @Autowired
+    public void setPersonRepository(PersonRepository personRepository) {
+        this.personRepository = personRepository;
+    }
+
 
     @GetMapping("persons/findAll")
     public List<Persons> findAll(){
